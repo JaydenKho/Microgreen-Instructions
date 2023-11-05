@@ -5,6 +5,7 @@
 
 body {
     background-color: #fff7df ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #white {
@@ -17,6 +18,7 @@ body {
     display:block;
     width:30%;
 }
+
 #website-navbar {
     position:sticky;
     top:0px;
