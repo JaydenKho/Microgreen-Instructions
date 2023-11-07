@@ -17,6 +17,10 @@ body {
     margin-right:auto;
     display:inline;
     max-width:100%;
+    margin-top:10px;
+    outline-color:#F7DFFF;
+    outline-width:8px;
+    outline-style:solid;
 }
 
 #website-navbar {
