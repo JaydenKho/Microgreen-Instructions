@@ -10,16 +10,16 @@ body {
 }
 
 #white {
-    color:color:#F7DFFF;
+    color:#F7DFFF;
 }
 
 #image {
-    margin-left:auto;
+    margin-left:-10px;
     margin-right:auto;
     display:inline;
     max-width:100%;
     margin-bottom:15px;
-    outline-color:#F7DFFF;
+    outline-color:#DFFFF7;
     outline-width:10px;
     outline-style:solid;
 }
