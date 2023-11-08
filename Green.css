@@ -20,7 +20,7 @@ body {
     max-width:100%;
     margin-bottom:15px;
     margin-top:10px;
-    outline-color:#F7DFFF;
+    outline-color:#FFF7DF;
     outline-width:10px;
     outline-style:solid;
 }
@@ -31,7 +31,7 @@ body {
 }
 
 #neon {
-    background-color:#FFF7DF;
+    background-color:#F7DFFF;
     margin-right:20px;
 }
 #head {
