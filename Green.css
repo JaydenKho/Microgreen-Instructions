@@ -19,6 +19,7 @@ body {
     display:inline;
     max-width:100%;
     margin-bottom:15px;
+    margin-top:10px;
     outline-color:#DFFFF7;
     outline-width:10px;
     outline-style:solid;
@@ -27,4 +28,12 @@ body {
 #website-navbar {
     position:sticky;
     top:0px;
+}
+
+#neon {
+    background-color:#DFFFF7;
+    outline-color:#F7DFFF;
+    outline-width:10px;
+    outline-style:solid;
+    margin-right:20px;
 }
